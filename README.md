@@ -65,3 +65,6 @@ Note: this code is adapted from https://github.com/dawenl/vae_cf/blob/master/VAE
 
 Setting the flag `--eval_during_training` to 1 will run evaluation after each epoch.
 
+## Reproducibility
+
+Logs of runs can be found here: https://drive.google.com/drive/folders/1ElGp6pfxQxUYv2QWvBD-u0AUWIIuaKP_?usp=drive_link.
